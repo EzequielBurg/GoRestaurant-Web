@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Lasanha",
+      "price": "40.00",
+      "description": "Lasanha de frango com molho vermelho",
+      "id": 4,
+      "available": true
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Fricasé de frango",
+      "price": "25.50",
+      "description": "Fricasé de frango com quatro queijos",
+      "available": true,
+      "id": 5
     }
   ]
 }
